@@ -1,0 +1,6 @@
+.neuron-sec{
+    background-image: url("./assests/nero.png");
+    background-size: cover;
+    background-position: center center;
+    mix-blend-mode: hard-light;
+}

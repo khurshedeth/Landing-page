@@ -1,0 +1,23 @@
+
+
+.home-background {
+  background-image: url('./assests/img.png');
+  background-size: cover;
+  background-position: center;
+  
+  /* Set a minimum height for smaller screens *//* Default minimum height */
+
+  /* Adjustments for responsiveness */
+  @media screen and (max-width: 1024px) {
+    /* Adjust the height or any other properties as needed for screens <= 1024px */
+
+
+  }
+
+  @media screen and (max-width: 768px) {
+    /* Adjust for smaller screens, e.g., tablets */
+    min-height: 24em;
+  }
+
+  /* Add further media queries as needed for various screen sizes */
+}
